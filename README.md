@@ -1,8 +1,36 @@
-# React + Vite
+# Job Portal Web Application – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive job portal frontend built using **React.js**, designed to allow users to explore job opportunities, apply for jobs, and manage profiles seamlessly. This frontend communicates with a RESTful backend API and is deployed live on Netlify.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 https://careerdoorhub.netlify.app/
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+)
+- **Styling:** CSS / Bootstrap
+- **Build Tool:** Vite
+- **API Integration:** REST APIs
+- **Deployment:** Netlify
+
+---
+
+## ✨ Features
+- User authentication (Login / Register)
+- Browse and search job listings
+- Apply for jobs
+- User dashboard
+- Responsive UI for desktop and mobile
+- API-based data handling with backend
+
+---
+
+## 🔗 Backend Repository
+The backend for this project is built using **Node.js, Express.js, and MongoDB** and is deployed separately.
+
+👉 Backend Repo:  
+https://github.com/SayakSinha99/Job_Seeking_Backend_Deployment
+
